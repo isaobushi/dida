@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "andrea",
+    "password": null,
+    "database": "dida",
+    "host": "localhost",
+    "port": "3005",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "andrea",
+    "password": null,
+    "database": "dida",
+    "host": "localhost",
+    "port": "3005",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "andrea",
+    "password": null,
+    "database": "dida",
+    "host": "localhost",
+    "port": "3005",
+    "dialect": "postgres"
+  }
+}
