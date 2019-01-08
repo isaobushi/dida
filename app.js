@@ -4,7 +4,7 @@ const pgp = require('pg-promise')()
 const db = pgp('users')
 const logger = require('morgan');
 const bodyParser = require('body-parser');
-const PORT = 3005
+const PORT = process.env.PORT || 3005
 var request = require('request');
 let level = 3
 

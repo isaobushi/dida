@@ -8,3 +8,6 @@ module.exports = (sequelize, DataTypes) => {
   };
   return Dida;
 };
+
+
+// user question answer level
